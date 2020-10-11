@@ -200,8 +200,7 @@ To deploy `Honey-combo`, follow these steps:
 
 ## :vhs: Demos
 
-* You can see [here](http://honeycombo.online)
-* [Video](https://github.com/YongjoonSeo/1st_pjt_301/blob/master/docs/HONEYCOMBO_UCC_LOW.mp4)
+* You can see [here](https://youtu.be/yDo78va-JFI)
 * Common Service
   * <img src="https://user-images.githubusercontent.com/19357410/91041095-62eeb180-e64a-11ea-9614-ec12760ad28b.gif" width=350>
   * <img src="https://user-images.githubusercontent.com/19357410/91041119-6bdf8300-e64a-11ea-9f3c-b98d2d5e032f.gif" width=350>

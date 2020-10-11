@@ -204,7 +204,7 @@
 
 ## :vhs: 시연 영상
 
-* [시연 영상](https://github.com/YongjoonSeo/1st_pjt_301/blob/master/docs/HONEYCOMBO_UCC_LOW.mp4)
+* [시연 영상](https://youtu.be/yDo78va-JFI)
 * 로그인, 피드, 댓글, 좋아요, 팔로우, 알림 서비스
   * <img src="https://user-images.githubusercontent.com/19357410/91041095-62eeb180-e64a-11ea-9614-ec12760ad28b.gif" width=350>
   * <img src="https://user-images.githubusercontent.com/19357410/91041119-6bdf8300-e64a-11ea-9f3c-b98d2d5e032f.gif" width=350>
